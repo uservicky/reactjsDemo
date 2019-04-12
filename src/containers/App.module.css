@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+}
+.red{
+  color:red;
+}
+.bold{
+  font-weight: bold;
+}
+.button{
+      background-color: green;
+      color : white;
+      font : inherit;
+      border : 1px solid blue;
+      padding : 8px;
+      cursor : pointer;
+}
+.button:hover{
+  background-color: rgb(76, 167, 76);
+  color:black;
+}
+
+.buttonChange{
+  background-color: red;
+  color : white;
+  font : inherit;
+  border : 1px solid blue;
+  padding : 8px;
+  cursor : pointer;
+}
+.buttonChange:hover{
+background-color: rgb(206, 65, 60);
+color:black;
+}
