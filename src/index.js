@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './containers/App';
 import registerServiceWorker from './registerServiceWorker';
-//vicky
+//vicky sharma
 ReactDOM.render(<App />, document.getElementById('root'));
 registerServiceWorker();
